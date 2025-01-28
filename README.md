@@ -1,5 +1,5 @@
 # FactFinder
-Fact Finder - a Fact Search Engine 
+Fact Finder - a simulated fact search engine 
 
 Information Retrieval **Project** - *A.Y. 2023/24*
 
@@ -10,9 +10,6 @@ Information Retrieval **Project** - *A.Y. 2023/24*
 ## Benchmark Datasets:
 
 *   **FEVER** - Thorne et al. 2018
-
-## LIbrary 
-* PyTerrier - Latest Version 
 
 ## Abstract
 The identification of what is real or artificially created is undoubtedly a crucial
